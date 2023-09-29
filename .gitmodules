@@ -28,3 +28,6 @@
 [submodule "roles/rpi_wifi_usb"]
 	path = roles/rpi_wifi_usb
 	url = https://github.com/oxivanisher/role-rpi_wifi_usb.git
+[submodule "roles/rpi_wifi_usb_smb"]
+	path = roles/rpi_wifi_usb_smb
+	url = https://github.com/oxivanisher/role-rpi_wifi_usb_smb.git
