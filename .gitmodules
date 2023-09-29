@@ -34,3 +34,6 @@
 [submodule "roles/tmp_ramfs"]
 	path = roles/tmp_ramfs
 	url = https://github.com/oxivanisher/role-tmp_ramfs.git
+[submodule "roles/wifi"]
+	path = roles/wifi
+	url = https://github.com/oxivanisher/role-wifi.git
