@@ -22,3 +22,6 @@
 [submodule "roles/rpi_swap"]
 	path = roles/rpi_swap
 	url = https://github.com/oxivanisher/role-rpi_swap.git
+[submodule "roles/rpi_tenserflowlite"]
+	path = roles/rpi_tenserflowlite
+	url = https://github.com/oxivanisher/role-rpi_tenserflowlite.git
