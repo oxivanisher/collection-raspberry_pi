@@ -25,3 +25,6 @@
 [submodule "roles/rpi_tenserflowlite"]
 	path = roles/rpi_tenserflowlite
 	url = https://github.com/oxivanisher/role-rpi_tenserflowlite.git
+[submodule "roles/rpi_wifi_usb"]
+	path = roles/rpi_wifi_usb
+	url = https://github.com/oxivanisher/role-rpi_wifi_usb.git
