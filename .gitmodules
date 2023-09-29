@@ -37,3 +37,6 @@
 [submodule "roles/wifi"]
 	path = roles/wifi
 	url = https://github.com/oxivanisher/role-wifi.git
+[submodule "roles/retropi_roms"]
+	path = roles/retropi_roms
+	url = https://github.com/oxivanisher/role-retropi_roms.git
