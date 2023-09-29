@@ -16,3 +16,6 @@
 [submodule "roles/rpi_configure_radio"]
 	path = roles/rpi_configure_radio
 	url = https://github.com/oxivanisher/role-rpi_configure_radio.git
+[submodule "roles/rpi_serials"]
+	path = roles/rpi_serials
+	url = https://github.com/oxivanisher/role-rpi_serials.git
