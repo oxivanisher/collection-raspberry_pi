@@ -7,3 +7,6 @@
 [submodule "roles/rpi_wordclock"]
 	path = roles/rpi_wordclock
 	url = https://github.com/oxivanisher/role-rpi_wordclock.git
+[submodule "roles/hifiberry"]
+	path = roles/hifiberry
+	url = https://github.com/oxivanisher/role-hifiberry.git
