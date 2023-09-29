@@ -1,3 +1,6 @@
 [submodule "roles/james_on_rpi"]
 	path = roles/james_on_rpi
 	url = https://github.com/oxivanisher/role-james_on_rpi.git
+[submodule "roles/piaware"]
+	path = roles/piaware
+	url = https://github.com/oxivanisher/role-piaware.git
