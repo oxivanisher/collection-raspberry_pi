@@ -1,0 +1,3 @@
+[submodule "roles/james_on_rpi"]
+	path = roles/james_on_rpi
+	url = https://github.com/oxivanisher/role-james_on_rpi.git
