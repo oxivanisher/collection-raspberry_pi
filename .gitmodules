@@ -13,3 +13,6 @@
 [submodule "roles/octoprint"]
 	path = roles/octoprint
 	url = https://github.com/oxivanisher/role-octoprint.git
+[submodule "roles/rpi_configure_radio"]
+	path = roles/rpi_configure_radio
+	url = https://github.com/oxivanisher/role-rpi_configure_radio.git
