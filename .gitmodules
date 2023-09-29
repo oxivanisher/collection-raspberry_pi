@@ -4,3 +4,6 @@
 [submodule "roles/piaware"]
 	path = roles/piaware
 	url = https://github.com/oxivanisher/role-piaware.git
+[submodule "roles/rpi_wordclock"]
+	path = roles/rpi_wordclock
+	url = https://github.com/oxivanisher/role-rpi_wordclock.git
