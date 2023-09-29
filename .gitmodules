@@ -10,3 +10,6 @@
 [submodule "roles/hifiberry"]
 	path = roles/hifiberry
 	url = https://github.com/oxivanisher/role-hifiberry.git
+[submodule "roles/octoprint"]
+	path = roles/octoprint
+	url = https://github.com/oxivanisher/role-octoprint.git
