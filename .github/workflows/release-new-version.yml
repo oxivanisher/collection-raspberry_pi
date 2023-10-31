@@ -21,7 +21,7 @@ jobs:
 
       - name: Update Submodules
         run: |
-          git submodule update --init --recursive
+          git submodule update --init --recursive --remote --merge
 
       - name: Check for Submodule Changes
         id: submodule_changes
