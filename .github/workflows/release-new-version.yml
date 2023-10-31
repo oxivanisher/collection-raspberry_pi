@@ -34,8 +34,7 @@ jobs:
           fi
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update submodules from workflow"
+          git commit -am "Update submodules from workflow"
           git push
           echo "Submodule changes detected and pushed to repository."
         continue-on-error: true
