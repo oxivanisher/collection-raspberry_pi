@@ -40,3 +40,6 @@
 [submodule "roles/retropi_roms"]
 	path = roles/retropi_roms
 	url = https://github.com/oxivanisher/role-retropi_roms.git
+[submodule "roles/timelapse"]
+	path = roles/timelapse
+	url = https://github.com/oxivanisher/role-timelapse.git
