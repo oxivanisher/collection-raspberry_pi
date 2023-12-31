@@ -17,3 +17,4 @@ Documentation for the collection.
 * https://github.com/oxivanisher/role-rpi_wordclock.git
 * https://github.com/oxivanisher/role-tmp_ramfs.git
 * https://github.com/oxivanisher/role-wifi.git
+* https://github.com/oxivanisher/role-timelapse.git
