@@ -1,4 +1,4 @@
-# Ansible Collection - oxivanisher.raspberry_pi
+# Ansible Collection - [oxivanisher.raspberry_pi](https://galaxy.ansible.com/ui/repo/published/oxivanisher/raspberry_pi/)
 
 Documentation for the collection.
 
