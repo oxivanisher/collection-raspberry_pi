@@ -1,6 +1,13 @@
 # Ansible Collection - [oxivanisher.raspberry_pi](https://galaxy.ansible.com/ui/repo/published/oxivanisher/raspberry_pi/)
 
-Documentation for the collection.
+[![Auto Release and Publish to Ansible Galaxy](https://github.com/oxivanisher/collection-raspberry_pi/actions/workflows/release-new-version.yml/badge.svg)](https://github.com/oxivanisher/collection-raspberry_pi/actions/workflows/release-new-version.yml)
+
+## Collection Variables
+This collection has a special variable which is used by several roles.
+| Name                             | Comment                                             | Default value                |
+|----------------------------------|-----------------------------------------------------|------------------------------|
+| raspberry_pi_boot_dev            | Raspberry pi boot dev (used for editing config.txt) | `/dev/mmcblk0p1`             |
+
 
 ## Contains the following roles
 * https://github.com/oxivanisher/role-hifiberry.git
