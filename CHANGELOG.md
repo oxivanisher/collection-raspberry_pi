@@ -1,3 +1,6 @@
+## 2024-07-11
+* Update rpi_tenserflowlite to fix tenserflow repo owner and update readme
+
 ## 2024-06-28
 * Adding pipeline badge
 * Adding supported minimal version for linter
