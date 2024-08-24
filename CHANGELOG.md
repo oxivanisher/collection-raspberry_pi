@@ -1,3 +1,6 @@
+## 2024-08-24
+* Update james2 to fix systemd unit file permissions
+
 ## 2024-07-11
 * Update rpi_tenserflowlite to fix tenserflow repo owner and update readme
 
