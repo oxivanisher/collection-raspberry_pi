@@ -1,3 +1,6 @@
+## 2024-09-06
+* Update timelapse role to use rpicam-apps-lite instead of libcamera-apps-lite
+
 ## 2024-08-24
 * Update james2 to fix systemd unit file permissions
 
