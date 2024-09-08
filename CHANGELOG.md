@@ -1,3 +1,6 @@
+## 2024-09-08
+* Bump for fixed wifi role
+
 ## 2024-09-06
 * Update timelapse role to use rpicam-apps-lite instead of libcamera-apps-lite
 
