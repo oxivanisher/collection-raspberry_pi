@@ -1,3 +1,6 @@
+## 2024-09-27
+* Bump for octoprint role (no longer create a oxiscript backup job!)
+
 ## 2024-09-08
 * Bump for fixed wifi role
 
