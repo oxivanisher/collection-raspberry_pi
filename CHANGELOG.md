@@ -1,5 +1,5 @@
 ## 2024-09-29
-* Bump for tenserflolite role (welcome to 2024)
+* Bump for tensorflow role (welcome to 2024)
 
 ## 2024-09-27
 * Bump for octoprint role (no longer create a oxiscript backup job!)
@@ -14,7 +14,7 @@
 * Update james2 to fix systemd unit file permissions
 
 ## 2024-07-11
-* Update rpi_tenserflowlite to fix tenserflow repo owner and update readme
+* Update rpi_tensorflowlite to fix tensorflow repo owner and update readme
 
 ## 2024-06-28
 * Adding pipeline badge

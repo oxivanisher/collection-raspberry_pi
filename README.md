@@ -18,7 +18,7 @@ This collection has a special variable which is used by several roles.
 * https://github.com/oxivanisher/role-rpi_configure_radio.git
 * https://github.com/oxivanisher/role-rpi_serials.git
 * https://github.com/oxivanisher/role-rpi_swap.git
-* https://github.com/oxivanisher/role-rpi_tenserflowlite.git?
+* https://github.com/oxivanisher/role-rpi_tensorflowlite.git?
 * https://github.com/oxivanisher/role-rpi_wifi_usb.git
 * https://github.com/oxivanisher/role-rpi_wifi_usb_smb.git
 * https://github.com/oxivanisher/role-rpi_wordclock.git

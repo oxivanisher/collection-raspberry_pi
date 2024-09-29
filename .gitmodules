@@ -22,9 +22,6 @@
 [submodule "roles/rpi_swap"]
 	path = roles/rpi_swap
 	url = https://github.com/oxivanisher/role-rpi_swap.git
-[submodule "roles/rpi_tenserflowlite"]
-	path = roles/rpi_tenserflowlite
-	url = https://github.com/oxivanisher/role-rpi_tenserflowlite.git
 [submodule "roles/rpi_wifi_usb"]
 	path = roles/rpi_wifi_usb
 	url = https://github.com/oxivanisher/role-rpi_wifi_usb.git
@@ -43,3 +40,6 @@
 [submodule "roles/timelapse"]
 	path = roles/timelapse
 	url = https://github.com/oxivanisher/role-timelapse.git
+[submodule "roles/rpi_tensorflowlite"]
+	path = roles/rpi_tensorflowlite
+	url = git@github.com:oxivanisher/role-rpi_tensorflowlite.git
