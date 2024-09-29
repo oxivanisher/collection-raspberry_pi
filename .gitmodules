@@ -40,3 +40,6 @@
 [submodule "roles/timelapse"]
 	path = roles/timelapse
 	url = https://github.com/oxivanisher/role-timelapse.git
+[submodule "roles/rpi_tensorflowlite"]
+	path = roles/rpi_tensorflowlite
+	url = https://github.com/oxivanisher/role-rpi_tensorflowlite.git
