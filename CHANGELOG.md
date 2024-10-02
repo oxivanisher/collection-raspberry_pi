@@ -1,3 +1,6 @@
+## 2024-10-02
+* Bump for timelapse role (just cleaner ansible)
+
 ## 2024-09-29
 * Bump for tensorflow role (welcome to 2024)
 
