@@ -1,3 +1,6 @@
+## 2025-02-14
+* Bump for fixed retropi roms role
+
 ## 2025-02-08
 * Bump for all roles to remove unused tests directory to make linter happy
 * Everything is now correctly linted
