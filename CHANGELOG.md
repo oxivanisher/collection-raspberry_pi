@@ -1,3 +1,6 @@
+## 2025-02-22
+* Bump for changed james_on_rpi role
+
 ## 2025-02-14
 * Bump for fixed retropi roms role
 
