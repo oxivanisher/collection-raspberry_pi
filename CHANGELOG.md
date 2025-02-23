@@ -1,3 +1,6 @@
+## 2025-02-23
+* Bump for changed james_on_rpi role
+
 ## 2025-02-22
 * Bump for changed james_on_rpi role
 
