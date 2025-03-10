@@ -1,3 +1,6 @@
+## 2025-03-10
+* Bump for timelapse role (upload every 30 minutes)
+
 ## 2025-02-23
 * Bump for changed james_on_rpi role
 
