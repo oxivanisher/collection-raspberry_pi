@@ -1,3 +1,6 @@
+## 2025-03-13
+* Bump for rpi_wifi_usb fix (bootdev var default was wrong)
+
 ## 2025-03-10
 * Bump for timelapse role (upload every 30 minutes)
 
