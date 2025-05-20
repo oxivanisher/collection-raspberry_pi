@@ -1,3 +1,6 @@
+## 2025-05-21
+* Bump for timelapse on calendar bugfix
+
 ## 2025-03-13
 * Bump for rpi_wifi_usb fix (bootdev var default was wrong)
 
