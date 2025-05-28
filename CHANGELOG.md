@@ -1,3 +1,6 @@
+## 2025-05-29
+* Bump for james_on_rpi update
+
 ## 2025-05-21
 * Bump for timelapse on calendar bugfix
 
