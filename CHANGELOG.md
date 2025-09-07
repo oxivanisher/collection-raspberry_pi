@@ -1,3 +1,6 @@
+## 2025-09-07
+* Bump for james_on_rpi update (use system user)
+
 ## 2025-05-29
 * Bump for james_on_rpi update
 
