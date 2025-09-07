@@ -1,5 +1,5 @@
 ## 2025-09-07
-* Bump for james_on_rpi update (use system user)
+* Bump for james_on_rpi update (use system user) and add more users for cli
 
 ## 2025-05-29
 * Bump for james_on_rpi update
