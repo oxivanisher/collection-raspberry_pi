@@ -1,3 +1,6 @@
+## 2025-09-26
+* Bump for hifiberry role to support RPi4
+
 ## 2025-09-07
 * Bump for james_on_rpi update (use system user) and add more users and changes for cli
 
