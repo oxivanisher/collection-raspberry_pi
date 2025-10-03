@@ -1,3 +1,6 @@
+## 2025-10-03
+* Improve trixie support for james
+
 ## 2025-09-26
 * Bump for hifiberry role to support RPi4
 
