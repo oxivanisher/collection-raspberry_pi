@@ -43,3 +43,6 @@
 [submodule "roles/rpi_tensorflowlite"]
 	path = roles/rpi_tensorflowlite
 	url = https://github.com/oxivanisher/role-rpi_tensorflowlite.git
+[submodule "roles/rpi_avahi"]
+	path = roles/rpi_avahi
+	url = git@github.com:oxivanisher/role-rpi_avahi.git

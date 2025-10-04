@@ -4,9 +4,9 @@
 
 ## Collection Variables
 This collection has a special variable which is used by several roles.
-| Name                             | Comment                                             | Default value                |
-|----------------------------------|-----------------------------------------------------|------------------------------|
-| raspberry_pi_boot_dev            | Raspberry pi boot dev (used for editing config.txt) | `/dev/mmcblk0p1`             |
+| Name                  | Comment                                             | Default value    |
+| --------------------- | --------------------------------------------------- | ---------------- |
+| raspberry_pi_boot_dev | Raspberry pi boot dev (used for editing config.txt) | `/dev/mmcblk0p1` |
 
 
 ## Contains the following roles
@@ -15,6 +15,7 @@ This collection has a special variable which is used by several roles.
 * https://github.com/oxivanisher/role-octoprint.git
 * https://github.com/oxivanisher/role-piaware.git
 * https://github.com/oxivanisher/role-retropi_roms.git
+* https://github.com/oxivanisher/role-rpi_avahi.git
 * https://github.com/oxivanisher/role-rpi_configure_radio.git
 * https://github.com/oxivanisher/role-rpi_serials.git
 * https://github.com/oxivanisher/role-rpi_swap.git
