@@ -1,3 +1,7 @@
+## 2025-10-04
+* Ensure switch variable is bool
+* Add rpi_avahi role
+
 ## 2025-10-03
 * Improve trixie support for james
 
