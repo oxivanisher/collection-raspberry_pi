@@ -1,3 +1,6 @@
+## 2025-10.05
+* Lookup user homes instead of guesstimating
+
 ## 2025-10-04
 * Ensure switch variable is bool
 * Add rpi_avahi role
