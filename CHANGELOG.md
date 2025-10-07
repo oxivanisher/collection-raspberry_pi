@@ -1,3 +1,6 @@
+## 2025-10-07
+* Bump for flightaware to handle not yet working trixie repository
+
 ## 2025-10.05
 * Lookup user homes instead of guesstimating
 * Install trixie ansible dep for pip
