@@ -1,3 +1,6 @@
+## 2025-10-16
+* Bump for james_on_rpi role to support mqtt setup
+
 ## 2025-10-07
 * Bump for flightaware to handle not yet working trixie repository
 
