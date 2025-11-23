@@ -1,3 +1,6 @@
+## 2025-11-23
+* Ansible 2.5 porting in all roles
+
 ## 2025-10-16
 * Bump for james_on_rpi role to support mqtt setup
 
