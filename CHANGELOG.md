@@ -1,3 +1,6 @@
+## 2025-11-28
+* Bump for wifi role for online detection fix
+
 ## 2025-11-23
 * Ansible 2.5 porting in all roles
 
