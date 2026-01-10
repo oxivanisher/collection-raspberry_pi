@@ -1,3 +1,6 @@
+## 2026-01-10
+* Bump for rpi_configure_radio now also unblocking soft blocked devices with rfkill
+
 ## 2025-11-28
 * Bump for wifi role for online detection fix
 
