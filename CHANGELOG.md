@@ -1,3 +1,6 @@
+## 2026-01-15
+* Bump for rpi_configure_radio bugfix
+
 ## 2026-01-10
 * Bump for rpi_configure_radio now also unblocking soft blocked devices with rfkill
 
