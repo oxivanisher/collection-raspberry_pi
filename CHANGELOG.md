@@ -1,3 +1,6 @@
+## 2026-03-27
+* Bump for optimized loop output
+
 ## 2026-01-15
 * Bump for rpi_configure_radio bugfix
 
