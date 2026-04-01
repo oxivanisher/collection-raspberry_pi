@@ -1,3 +1,10 @@
+## 2026-04-01
+* wifi: add no_log to nmcli PSK task, use systemd_service module
+* rpi_swap: use systemd_service module instead of generic service module
+* octoprint: use systemd_service module instead of generic service module
+* james_on_rpi: security fixes, remove redundant become_user, use systemd_service module
+* rpi_configure_radio: use systemd_service module, fix daemon_reload being silently ignored
+
 ## 2026-03-27
 * Bump for optimized loop output
 
