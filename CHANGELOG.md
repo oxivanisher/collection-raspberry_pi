@@ -1,3 +1,6 @@
+## 2026-04-01 (2)
+* Remove redundant become_user: root in all roles
+
 ## 2026-04-01
 * wifi: add no_log to nmcli PSK task, use systemd_service module
 * rpi_swap: use systemd_service module instead of generic service module
