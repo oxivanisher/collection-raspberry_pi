@@ -1,3 +1,6 @@
+## 2026-05-07
+* Autodetect /boot mount and so no longer require the raspberry_pi_boot_dev var
+
 ## 2026-04-01 (2)
 * Remove redundant become_user: root in all roles
 
