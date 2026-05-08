@@ -1,3 +1,6 @@
+## 2026-05-08
+* Bump for github.com workflow action version upgrade
+
 ## 2026-05-07
 * Autodetect /boot mount and so no longer require the raspberry_pi_boot_dev var
 
