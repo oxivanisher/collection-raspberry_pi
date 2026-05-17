@@ -1,3 +1,6 @@
+## 2026-05-17
+* Bumnp for piware role to support piaware 1.3 (and debian trixie/raspbian 13)
+
 ## 2026-05-08
 * Bump for github.com workflow action version upgrade
 
