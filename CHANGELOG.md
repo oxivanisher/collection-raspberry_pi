@@ -1,5 +1,8 @@
 ## 2026-06-12
-* Bump for octoprint role for improved timelapse sync script
+* Bump for octoprint role for improved timelapse sync script and user home lookup instead of hardcoded /home
+* Bump for retropi_roms for user home lookup instead of hardcoded /home
+* Bump for rpi_tensorflowlite for user home lookup instead of hardcoded /home
+* Bump for rpi_wordclock for user home lookup instead of hardcoded /home
 
 ## 2026-05-17
 * Bumnp for piware role to support piaware 1.3 (and debian trixie/raspbian 13)
