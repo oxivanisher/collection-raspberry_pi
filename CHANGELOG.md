@@ -1,3 +1,6 @@
+## 2026-06-12
+* Bump for octoprint role for improved timelapse sync script
+
 ## 2026-05-17
 * Bumnp for piware role to support piaware 1.3 (and debian trixie/raspbian 13)
 
