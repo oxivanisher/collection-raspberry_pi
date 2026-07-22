@@ -1,3 +1,6 @@
+## 2026-07-22
+* Bump for linting improvements
+
 ## 2026-06-12
 * Bump for octoprint role for improved timelapse sync script and user home lookup instead of hardcoded /home
 * Bump for retropi_roms for user home lookup instead of hardcoded /home
