@@ -1,3 +1,6 @@
+## 2026-10-29
+* Bump for octoprint to handle service facts better
+
 ## 2026-07-22
 * Bump for linting improvements
 
