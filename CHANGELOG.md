@@ -1,3 +1,6 @@
+## 2026-11-13
+* New role sendspin_player: installs sendspin-cli 0.4.0 so a Raspberry Pi becomes a Sendspin (Music Assistant) player next to MPD
+
 ## 2026-10-29
 * Bump for octoprint to handle service facts better
 

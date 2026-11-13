@@ -16,6 +16,7 @@
 * https://github.com/oxivanisher/role-rpi_wifi_usb.git
 * https://github.com/oxivanisher/role-rpi_wifi_usb_smb.git
 * https://github.com/oxivanisher/role-rpi_wordclock.git
+* https://github.com/oxivanisher/role-sendspin_player.git
 * https://github.com/oxivanisher/role-tmp_ramfs.git
 * https://github.com/oxivanisher/role-wifi.git
 * https://github.com/oxivanisher/role-timelapse.git

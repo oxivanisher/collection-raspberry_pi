@@ -46,3 +46,6 @@
 [submodule "roles/rpi_avahi"]
 	path = roles/rpi_avahi
 	url = https://github.com/oxivanisher/role-rpi_avahi.git
+[submodule "roles/sendspin_player"]
+	path = roles/sendspin_player
+	url = https://github.com/oxivanisher/role-sendspin_player.git
